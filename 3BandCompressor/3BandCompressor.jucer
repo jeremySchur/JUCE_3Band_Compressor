@@ -4,6 +4,8 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="jeremyschur">
   <MAINGROUP id="ox4wvM" name="3BandCompressor">
     <GROUP id="{31AC8CEB-69B5-B4D9-15F3-5B27D781F2DD}" name="Source">
+      <FILE id="AonBlX" name="Compressor.h" compile="0" resource="0" file="Source/Compressor.h"/>
+      <FILE id="Cfc5KU" name="Compressor.cpp" compile="1" resource="0" file="Source/Compressor.cpp"/>
       <FILE id="WZcqgO" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="FdRDD3" name="PluginProcessor.h" compile="0" resource="0"
